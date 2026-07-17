@@ -4,6 +4,6 @@ class Solution:
         n = []
         for i in nums:
             n.append(i * i)
-            n.sort()
+        n.sort()
             
         
