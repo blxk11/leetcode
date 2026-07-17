@@ -5,5 +5,6 @@ class Solution:
         for i in nums:
             n.append(i * i)
         n.sort()
+        return n
             
         
